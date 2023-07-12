@@ -1,7 +1,21 @@
-### Hi there 👋
+## Hi !
+
+Working on [Sowa Engine](https://github.com/sowaengine/sowa) ⭐
+<hr>
+
+### Daily
+![Most used](https://skillicons.dev/icons?i=cpp,go,svelte,ts)
+
+### Tool writers
+![Not most used](https://skillicons.dev/icons?i=nodejs,py)
+
+### Tools
+![Tools](https://skillicons.dev/icons?i=godot,blender,vscode)
+
 
 
 <!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lexographics&theme=dracula) -->
+<!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexographics&layout=compact&bg_color=110,2e739dbb,535360bb,274050bb,2e2e2ebb&theme=vue&text_color=ffffff) -->
 
 
 <!--
