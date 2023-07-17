@@ -6,11 +6,10 @@ Working on [Sowa Engine](https://github.com/sowaengine/sowa) ⭐
 ### Daily
 ![Most used](https://skillicons.dev/icons?i=cpp,go,svelte,ts)
 
-### Tool writers
+### Not Daily
 ![Not most used](https://skillicons.dev/icons?i=nodejs,py)
 
-### Tools
-![Tools](https://skillicons.dev/icons?i=godot,blender,vscode)
+![Tools](https://skillicons.dev/icons?i=godot,blender)
 
 
 
