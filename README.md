@@ -7,7 +7,7 @@ Working on [Sowa Engine](https://github.com/sowaengine/sowa) ⭐
 ![Most used](https://skillicons.dev/icons?i=cpp,go,svelte,ts)
 
 ### Not Daily
-![Not most used](https://skillicons.dev/icons?i=nodejs,py)
+![Not most used](https://skillicons.dev/icons?i=py)
 
 ![Tools](https://skillicons.dev/icons?i=godot,blender)
 
