@@ -4,7 +4,7 @@ Working on [Sowa Engine](https://github.com/sowaengine/sowa) ⭐
 <hr>
 
 ### Daily
-![Most used](https://skillicons.dev/icons?i=cpp,go,svelte,ts)
+![Most used](https://skillicons.dev/icons?i=cpp,go,svelte)
 
 ### Not Daily
 ![Not most used](https://skillicons.dev/icons?i=py)
