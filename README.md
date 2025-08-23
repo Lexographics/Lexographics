@@ -3,10 +3,8 @@
 Working on [Sowa Engine](https://github.com/sowaengine/sowa) ⭐
 <hr>
 
-### Daily
 ![Most used](https://skillicons.dev/icons?i=cpp,go)
 
-### Not Daily
 ![Not most used](https://skillicons.dev/icons?i=py,godot,blender,svelte)
 
 
